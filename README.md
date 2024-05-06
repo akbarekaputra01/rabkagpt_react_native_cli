@@ -1,11 +1,12 @@
 # RabkaGPT (AI-Voice-Assistant-React-Native)
 
 <div style="display:flex; justify-content: space-between;">
-    <img src="assets/images/ss/version/1.1.0/welcomeScreen.png" style="width:18%;" />
-    <img src="assets/images/ss/version/1.1.0/homeScreenNoInput.png" style="width:18%;" />
-    <img src="assets/images/ss/version/1.1.0/homeScreenWithInput.png" style="width:18%;" />
-    <img src="assets/images/ss/version/1.1.0/homeScreenOnlyText.png" style="width:18%;" />
-    <img src="assets/images/ss/version/1.1.0/homeScreenWithPict.png" style="width:18%;" />
+    <img src="assets/images/ss/version/1.1.0/welcomeScreen.png" style="width:15%;" />
+    <img src="assets/images/ss/version/1.1.0/homeScreenNoInput.png" style="width:15%;" />
+    <img src="assets/images/ss/version/1.1.0/homeScreenWithInput.png" style="width:15%;" />
+    <img src="assets/images/ss/version/1.1.0/homeScreen.png" style="width:15%;" />
+    <img src="assets/images/ss/version/1.1.0/homeScreenOnlyText.png" style="width:15%;" />
+    <img src="assets/images/ss/version/1.1.0/homeScreenWithPict.png" style="width:15%;" />
 </div>
 
 ## Get Started
