@@ -10,6 +10,7 @@ export default function WelcomeScreen() {
   const navigation = useNavigation();
   return (
     <SafeAreaView className="flex-1 flex justify-around bg-white">
+
       {/* title */}
       <View className="space-y-2">
         <Text
@@ -42,6 +43,7 @@ export default function WelcomeScreen() {
           Get Started
         </Text>
       </TouchableOpacity>
+
     </SafeAreaView>
   );
 }
